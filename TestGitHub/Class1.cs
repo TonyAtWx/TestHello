@@ -8,5 +8,6 @@ namespace TestGitHub
 {
     public class Class1
     {
+        //test
     }
 }
